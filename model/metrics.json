@@ -1,0 +1,11 @@
+{
+  "test_pairs": 10000,
+  "test_clients": 1000,
+  "mae_ml": 4.721,
+  "mae_baseline": 6.579,
+  "rmse_ml": 5.896,
+  "r2_ml": 0.756,
+  "iterations": 260,
+  "ndcg3_ml": 0.9737,
+  "ndcg3_baseline": 0.9623
+}

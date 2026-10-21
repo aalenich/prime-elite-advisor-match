@@ -1,0 +1,101 @@
+﻿manager_id,display_name,segment,region,experience_years,preferred_channel,languages,hobbies,capacity,initial_clients,skill_bonds,skill_ru_equities,skill_global_markets,skill_deposits,skill_lending,skill_margin,skill_structured_products
+M001,Менеджер 001,PRIME,Москва,2,phone,ru,travel|chess,79,79,2,3,6,8,7,4,5
+M002,Менеджер 002,PRIME,Санкт-Петербург,5,video,ru,running|reading,68,42,8,6,6,7,3,5,5
+M003,Менеджер 003,PRIME,Казань,8,video,ru_en,travel|music,71,24,4,2,7,4,5,8,5
+M004,Менеджер 004,PRIME,Екатеринбург,4,video,ru_en,theater|art,66,23,4,7,4,6,4,3,3
+M005,Менеджер 005,PRIME,Новосибирск,8,chat,ru,art|tennis,100,25,4,6,5,4,8,9,3
+M006,Менеджер 006,PRIME,Краснодар,13,phone,ru_en,music|art,95,24,8,4,5,6,6,6,5
+M007,Менеджер 007,PRIME,Нижний Новгород,10,chat,ru_en,reading|art,70,17,2,5,4,8,6,6,4
+M008,Менеджер 008,PRIME,Самара,6,video,ru,travel|running,100,20,9,5,10,5,4,5,3
+M009,Менеджер 009,PRIME,Москва,12,video,ru_en,skiing|theater,100,100,9,5,4,5,7,4,7
+M010,Менеджер 010,PRIME,Санкт-Петербург,11,video,ru,tennis|skiing,96,54,3,7,7,5,4,6,8
+M011,Менеджер 011,PRIME,Казань,15,chat,ru,tennis|running,82,25,4,5,5,5,9,9,6
+M012,Менеджер 012,PRIME,Екатеринбург,5,video,ru,theater|music,86,27,6,10,5,7,5,4,5
+M013,Менеджер 013,PRIME,Новосибирск,9,video,ru,running|travel,99,27,7,4,7,4,4,4,4
+M014,Менеджер 014,PRIME,Краснодар,9,video,ru,travel|music,100,27,3,7,4,5,6,5,8
+M015,Менеджер 015,PRIME,Нижний Новгород,9,chat,ru,running|cycling,72,18,6,8,7,6,8,3,5
+M016,Менеджер 016,PRIME,Самара,14,phone,ru_en,cycling|music,82,17,9,4,5,6,6,6,4
+M017,Менеджер 017,PRIME,Москва,2,chat,ru_en,running|chess,93,93,8,4,5,6,5,3,8
+M018,Менеджер 018,PRIME,Санкт-Петербург,7,phone,ru,tennis|skiing,99,58,6,6,7,4,7,6,4
+M019,Менеджер 019,PRIME,Казань,17,phone,ru,skiing|running,96,29,4,4,4,9,8,5,4
+M020,Менеджер 020,PRIME,Екатеринбург,6,video,ru_en,travel|chess,78,24,6,7,3,7,5,6,3
+M021,Менеджер 021,PRIME,Новосибирск,4,video,ru,running|cycling,75,20,7,4,5,5,4,5,7
+M022,Менеджер 022,PRIME,Краснодар,10,phone,ru,cycling|art,81,23,9,6,4,7,5,8,5
+M023,Менеджер 023,PRIME,Нижний Новгород,10,chat,ru_en,cycling|theater,99,23,4,8,5,6,6,5,4
+M024,Менеджер 024,PRIME,Самара,9,video,ru,reading|cycling,98,23,6,5,4,5,4,3,8
+M025,Менеджер 025,PRIME,Москва,11,video,ru,theater|reading,97,97,9,4,3,6,8,3,3
+M026,Менеджер 026,PRIME,Санкт-Петербург,8,phone,ru_en,tennis|music,67,40,3,5,7,7,5,5,6
+M027,Менеджер 027,PRIME,Казань,12,chat,ru_en,chess|running,82,26,4,5,8,8,6,6,5
+M028,Менеджер 028,PRIME,Екатеринбург,6,video,ru_en,reading|theater,91,29,5,9,8,9,6,3,5
+M029,Менеджер 029,PRIME,Новосибирск,17,phone,ru_en,chess|cycling,98,26,10,4,3,5,4,9,4
+M030,Менеджер 030,PRIME,Краснодар,7,phone,ru_en,music|art,87,24,4,5,4,10,4,7,8
+M031,Менеджер 031,PRIME,Нижний Новгород,11,video,ru,cycling|music,75,19,4,4,8,4,6,5,5
+M032,Менеджер 032,PRIME,Самара,9,chat,ru,travel|art,83,17,4,4,4,9,8,5,4
+M033,Менеджер 033,PRIME,Москва,10,video,ru_en,cycling|theater,93,93,5,6,4,7,8,5,5
+M034,Менеджер 034,PRIME,Санкт-Петербург,13,video,ru,travel|skiing,85,45,5,5,3,5,5,9,4
+M035,Менеджер 035,PRIME,Казань,3,video,ru_en,music|cycling,91,28,3,7,8,5,6,7,5
+M036,Менеджер 036,PRIME,Екатеринбург,9,chat,ru_en,running|art,74,25,6,6,6,5,3,9,5
+M037,Менеджер 037,PRIME,Новосибирск,17,phone,ru_en,art|travel,100,25,8,5,5,5,6,3,9
+M038,Менеджер 038,PRIME,Краснодар,16,chat,ru_en,skiing|music,80,22,4,10,7,3,5,5,7
+M039,Менеджер 039,PRIME,Нижний Новгород,8,chat,ru,travel|reading,100,24,4,7,4,2,7,7,4
+M040,Менеджер 040,PRIME,Самара,2,video,ru_en,tennis|travel,98,19,6,4,4,5,8,3,10
+M041,Менеджер 041,PRIME,Москва,6,chat,ru_en,tennis|reading,68,68,6,10,6,4,4,6,5
+M042,Менеджер 042,PRIME,Санкт-Петербург,4,video,ru,travel|reading,98,55,5,8,5,4,4,4,8
+M043,Менеджер 043,PRIME,Казань,6,chat,ru_en,skiing|running,95,28,5,9,5,4,7,5,5
+M044,Менеджер 044,PRIME,Екатеринбург,3,chat,ru_en,reading|chess,90,30,1,4,8,4,1,5,9
+M045,Менеджер 045,PRIME,Новосибирск,8,video,ru_en,cycling|travel,65,18,3,9,3,5,6,6,3
+M046,Менеджер 046,PRIME,Краснодар,13,chat,ru_en,chess|running,70,20,4,6,3,7,8,6,8
+M047,Менеджер 047,PRIME,Нижний Новгород,12,video,ru,cycling|chess,82,21,4,7,3,5,4,7,5
+M048,Менеджер 048,PRIME,Самара,13,chat,ru,skiing|running,90,18,7,4,2,6,7,8,6
+M049,Менеджер 049,PRIME,Москва,9,chat,ru,skiing|cycling,99,99,6,4,4,7,4,8,4
+M050,Менеджер 050,PRIME,Санкт-Петербург,14,chat,ru_en,skiing|art,96,55,4,10,5,6,7,4,4
+M051,Менеджер 051,PRIME,Казань,7,chat,ru_en,cycling|skiing,99,28,5,8,6,4,6,4,4
+M052,Менеджер 052,PRIME,Екатеринбург,10,chat,ru_en,music|tennis,89,27,2,8,4,4,3,8,5
+M053,Менеджер 053,PRIME,Новосибирск,15,video,ru,skiing|tennis,77,22,8,4,2,9,5,3,6
+M054,Менеджер 054,PRIME,Краснодар,12,video,ru_en,tennis|theater,92,27,9,3,6,4,4,5,3
+M055,Менеджер 055,PRIME,Нижний Новгород,2,video,ru,chess|art,96,23,4,5,5,4,8,2,9
+M056,Менеджер 056,PRIME,Самара,8,phone,ru_en,skiing|reading,82,16,3,7,6,5,1,6,3
+M057,Менеджер 057,PRIME,Москва,5,video,ru,reading|music,97,97,3,5,8,7,6,3,7
+M058,Менеджер 058,PRIME,Санкт-Петербург,2,video,ru_en,chess|art,94,54,6,6,8,5,4,5,9
+M059,Менеджер 059,PRIME,Казань,15,chat,ru,theater|cycling,77,25,6,6,7,5,6,6,5
+M060,Менеджер 060,PRIME,Екатеринбург,10,video,ru_en,tennis|theater,65,21,8,4,4,4,4,5,10
+M061,Менеджер 061,PRIME,Новосибирск,13,video,ru,chess|art,98,25,7,2,4,5,8,5,8
+M062,Менеджер 062,PRIME,Краснодар,6,phone,ru_en,art|chess,83,24,4,3,5,6,6,9,7
+M063,Менеджер 063,PRIME,Нижний Новгород,10,phone,ru,music|theater,69,17,5,8,4,5,10,4,3
+M064,Менеджер 064,PRIME,Самара,5,video,ru,cycling|theater,69,15,4,3,5,10,5,9,6
+M065,Менеджер 065,PRIME,Москва,5,phone,ru_en,music|cycling,66,66,5,2,4,4,4,7,10
+M066,Менеджер 066,ELITE,Санкт-Петербург,10,phone,ru,theater|art,51,47,9,4,9,5,5,6,4
+M067,Менеджер 067,ELITE,Казань,10,chat,ru_en,chess|music,47,36,6,10,5,7,5,4,8
+M068,Менеджер 068,ELITE,Екатеринбург,12,phone,ru,art|reading,43,32,4,2,5,8,8,5,4
+M069,Менеджер 069,ELITE,Новосибирск,16,video,ru_en,tennis|skiing,42,33,6,4,5,3,5,8,4
+M070,Менеджер 070,ELITE,Краснодар,3,phone,ru,art|travel,39,29,6,7,5,3,6,8,7
+M071,Менеджер 071,ELITE,Нижний Новгород,14,video,ru_en,chess|theater,43,33,6,3,9,4,8,4,6
+M072,Менеджер 072,ELITE,Самара,12,phone,ru,skiing|travel,46,34,5,3,6,9,8,5,3
+M073,Менеджер 073,ELITE,Москва,16,phone,ru_en,art|skiing,47,47,5,7,5,6,5,6,6
+M074,Менеджер 074,ELITE,Санкт-Петербург,4,video,ru,theater|music,34,33,5,6,5,5,5,9,7
+M075,Менеджер 075,ELITE,Казань,15,video,ru_en,chess|art,40,29,7,4,8,7,5,4,6
+M076,Менеджер 076,ELITE,Екатеринбург,9,phone,ru,skiing|tennis,42,32,4,7,5,3,4,5,4
+M077,Менеджер 077,ELITE,Новосибирск,7,phone,ru,travel|skiing,45,33,4,5,6,7,6,5,6
+M078,Менеджер 078,ELITE,Краснодар,13,chat,ru_en,music|cycling,42,32,2,9,4,7,6,3,8
+M079,Менеджер 079,ELITE,Нижний Новгород,16,phone,ru_en,music|running,52,38,6,6,10,4,6,8,6
+M080,Менеджер 080,ELITE,Самара,14,video,ru,travel|chess,50,38,10,3,7,5,6,6,4
+M081,Менеджер 081,ELITE,Москва,10,phone,ru,chess|reading,45,45,9,5,5,6,5,6,6
+M082,Менеджер 082,ELITE,Санкт-Петербург,16,video,ru,chess|cycling,43,39,4,3,8,9,6,6,7
+M083,Менеджер 083,ELITE,Казань,7,video,ru,tennis|theater,41,30,6,6,5,5,8,4,3
+M084,Менеджер 084,ELITE,Екатеринбург,15,phone,ru,theater|skiing,40,30,5,4,8,5,9,6,3
+M085,Менеджер 085,ELITE,Новосибирск,16,phone,ru,chess|running,37,28,6,4,9,5,2,7,7
+M086,Менеджер 086,ELITE,Краснодар,5,video,ru,running|theater,34,27,4,6,5,5,10,8,4
+M087,Менеджер 087,ELITE,Нижний Новгород,3,chat,ru_en,running|art,53,39,8,3,4,5,5,4,9
+M088,Менеджер 088,ELITE,Самара,6,video,ru_en,chess|cycling,40,29,9,6,3,7,5,9,5
+M089,Менеджер 089,ELITE,Москва,17,video,ru_en,tennis|theater,43,43,6,4,6,2,6,5,8
+M090,Менеджер 090,ELITE,Санкт-Петербург,8,chat,ru,tennis|theater,55,48,6,6,5,7,5,3,9
+M091,Менеджер 091,ELITE,Казань,11,phone,ru,cycling|art,37,27,8,5,9,2,6,7,6
+M092,Менеджер 092,ELITE,Екатеринбург,3,video,ru_en,art|skiing,34,26,6,6,8,4,6,3,8
+M093,Менеджер 093,ELITE,Новосибирск,17,chat,ru,reading|music,55,40,10,8,4,5,3,6,5
+M094,Менеджер 094,ELITE,Краснодар,3,phone,ru_en,travel|cycling,45,34,7,5,4,10,7,2,6
+M095,Менеджер 095,ELITE,Нижний Новгород,7,chat,ru_en,reading|theater,39,30,2,3,4,8,4,5,8
+M096,Менеджер 096,ELITE,Самара,16,phone,ru,skiing|chess,50,37,8,7,3,6,8,8,5
+M097,Менеджер 097,ELITE,Москва,16,video,ru_en,music|running,33,33,5,9,6,5,5,7,5
+M098,Менеджер 098,ELITE,Санкт-Петербург,9,phone,ru_en,skiing|theater,34,32,4,1,7,4,8,3,5
+M099,Менеджер 099,ELITE,Казань,6,phone,ru_en,skiing|chess,30,22,7,6,4,6,4,5,6
+M100,Менеджер 100,ELITE,Екатеринбург,15,phone,ru_en,theater|travel,47,35,6,3,6,6,8,6,4

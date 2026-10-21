@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: prime-elite-advisor-match
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements-deploy.txt
+    startCommand: python server.py
+    envVars:
+      - key: DEPLOY_MODE
+        value: "1"
+      - key: APP_USERNAME
+        value: demo
+      - key: APP_PASSWORD
+        sync: false
+      - key: PYTHON_VERSION
+        value: 3.11.11
